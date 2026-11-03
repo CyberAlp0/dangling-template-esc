@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="dangling-template-esc" width="100%">
+</p>
+
 # dangling-template-esc
 
 > Weaponize a **dangling AD CS certificate template** via `CreateChild` rights — re-create the missing template object preconfigured for **ESC1** and escalate to Domain Admin.
